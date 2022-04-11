@@ -24,7 +24,7 @@
 - 게시판 기능(백엔드)
 <br/>
 :아래를_가리키는_손_모양: 메인페이지
-<img src=“https://user-images.githubusercontent.com/90900882/162651349-63516c82-9c5f-4dae-99e7-9d80a9a87bc5.gif” width=“400” height=“300" />
+<img src=https://wecode-bootcamp.slack.com/files/U02TZ32315W/F03AU740N85/____________________________________________________.gif width=“400” height=“300" />
 <br/>
 :아래를_가리키는_손_모양: 로그인, 회원가입
 <img src=“https://user-images.githubusercontent.com/90900882/162650973-0424b633-f9cb-4673-b10c-69bc8f8fca79.gif” width=“400" height=“300” />
