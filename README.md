@@ -24,11 +24,8 @@
 - 게시판 기능(백엔드)
 <br/>
 :아래를_가리키는_손_모양: 메인페이지
-<img src=[메인페이지](https://user-images.githubusercontent.com/86543366/162652801-8b783280-2faa-40cd-8702-568231f410b1.gif) width=“400” height=“300" />
+<img src="https://user-images.githubusercontent.com/86543366/162652801-8b783280-2faa-40cd-8702-568231f410b1.gif" width=“400” height=“300" />
 
-<br/>
-:아래를_가리키는_손_모양: 로그인, 회원가입
-<img src=“https://user-images.githubusercontent.com/90900882/162650973-0424b633-f9cb-4673-b10c-69bc8f8fca79.gif” width=“400" height=“300” />
 <br/>
 :아래를_가리키는_손_모양: 전체 상품 리스트, 카테고리별 리스트
 <img src=“https://user-images.githubusercontent.com/90900882/162651206-938e0d4b-f714-4767-9712-f6e5497cc8a1.gif” width=“400” height=“300" />
