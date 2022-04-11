@@ -29,10 +29,11 @@
 <br/>
 전체 상품 리스트, 카테고리별 리스트
 <img src=“https://user-images.githubusercontent.com/86543366/162653115-e374df19-d11c-449d-9aef-8a00458017cb.gif” width=“400” height=“300" />
-<br/>
 
+<br/>
 :아래를_가리키는_손_모양: 제품 상세 페이지
 <img src=“https://user-images.githubusercontent.com/90900882/162651472-69340fc4-b2db-4875-8117-9ff8c85f481d.gif” width=“400" height=“300” />
+                                                                                                                            
 <br/>
 :아래를_가리키는_손_모양: 장바구니, 검색기능
 <img src=“https://user-images.githubusercontent.com/90900882/162651550-ce6a8208-b0b7-43ad-8a86-40cbf22251af.gif” width=“400” height=“300" />
